@@ -34,10 +34,10 @@ A catalog of over 800 geospatial data websites worldwide, including all the majo
 
 ## International
 
-* GADM  <http://www.gadm.org/>  
+* GADM  <https://www.gadm.org/>  
 Download administrative boundaries of second-level subdivisions (or lower) by country, or for the whole world.
 
-* OpenStreetMap  <http://www.openstreetmap.org/>  
+* OpenStreetMap  <https://www.openstreetmap.org/>  
 A free, collaborative, editable map of the world.  The current map can be viewed at the link above -- check your area of interest to see what level of detail is available.  To download as data, click “Export” for various options, or go directly to these sites for easy-to-use shapefiles:
   * <http://download.geofabrik.de/>	(daily data extracts by country)
   * <https://export.hotosm.org/>	(custom extracts by user-selected area)
