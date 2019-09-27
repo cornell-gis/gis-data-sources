@@ -30,7 +30,7 @@ Download a variety of data layers for any arbitrary region.  Includes current an
 Extensive data catalog of federal government agencies, selected state and local governments, and other sources.
 
 * Geolode.org  <http://geolode.org/>  
-A catalog of over 700 geospatial data websites worldwide, including all the major US state GIS websites.  This project started at Cornell, and is maintained by GIS librarians at several universities.
+A catalog of over 800 geospatial data websites worldwide, including all the major US state GIS websites.  This project started at Cornell, and is maintained by GIS librarians at several universities.
 
 ## International
 
@@ -43,7 +43,7 @@ A free, collaborative, editable map of the world.  The current map can be viewed
   * <https://export.hotosm.org/>	(custom extracts by user-selected area)
 
 * Geolode.org  <http://geolode.org/>  
-A catalog of over 700 geospatial data websites worldwide.
+A catalog of over 800 geospatial data websites worldwide.
 
 
 ## Library resources
