@@ -20,7 +20,7 @@ Aerial photos dating back to 1936.  Only Cayuga, Cortland, Onondaga, Seneca, Tom
 
 ## United States
 
-* Census TIGER/Line Shapefiles  <https://www.census.gov/geo/maps-data/data/tiger-line.html>  
+* Census TIGER/Line Shapefiles  <https://www.census.gov/programs-surveys/geography/geographies/mapping-files.html>  
 Spatial data for boundaries of legal and statistical areas such as states, counties, census tracts, block-groups, blocks, zipcode tabulation areas, legislative boundaries, school districts, etc.  (Also includes roads and water features, although probably not as detailed or current as other sources.)
 
 * National Map  <https://viewer.nationalmap.gov/basic/>  
@@ -29,8 +29,8 @@ Download a variety of data layers for any arbitrary region.  Includes current an
 * Data.gov  <https://data.gov/>  
 Extensive data catalog of federal government agencies, selected state and local governments, and other sources.
 
-* List of State GIS Data Sources  <http://libweb.uoregon.edu/map/map_section/map_Statedatasets.html>
-
+* Geolode.org  <http://geolode.org/>  
+A catalog of over 700 geospatial data websites worldwide, including all the major US state GIS websites.  This project started at Cornell, and is maintained by GIS librarians at several universities.
 
 ## International
 
@@ -43,7 +43,7 @@ A free, collaborative, editable map of the world.  The current map can be viewed
   * <https://export.hotosm.org/>	(custom extracts by user-selected area)
 
 * Geolode.org  <http://geolode.org/>  
-A catalog of over 700 geospatial data websites worldwide.  This project started at Cornell, and is maintained by GIS librarians at several universities.
+A catalog of over 700 geospatial data websites worldwide.
 
 
 ## Library resources
