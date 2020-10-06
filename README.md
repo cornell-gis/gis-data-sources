@@ -56,9 +56,6 @@ Geolytics provides access to US Census data from 1970 to 2010.  Software on thes
 * SimplyAnalytics  <http://resolver.library.cornell.edu/misc/6168667>  
 Formerly known as SimplyMap, this site offers thematic maps and reports of demographic, business, and marketing data for the United States.  Some of the marketing data is incredibly specific -- ("# Households buying car wax and polish in last 12 months" or "% Households engaged in marathon/triathon training and events").  To export shapefiles of the data, click the ☰ menu.
 
-* LandScan  <http://resolver.library.cornell.edu/misc/7656094>  
-Global population density raster data at 1-km resolution for each year 2000-2017.
-
 
 ## Finding other sources
 
