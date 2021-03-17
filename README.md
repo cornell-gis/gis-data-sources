@@ -1,5 +1,3 @@
-# GIS Data Sources
-
 Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Mann Library.
 
 
@@ -25,6 +23,7 @@ Then click "Connect" and select a layer to add.  For more details, including acc
 ## [Historical Aerial Photographs of New York](https://digital.library.cornell.edu/collections/aerialny)
 Aerial photos dating back to 1936.  Only Cayuga, Cortland, Onondaga, Seneca, Tompkins, and Wayne counties are currently available online, but Cornell IRIS is in the middle of a project to scan the original photographs for other counties across NY.
 
+----
 
 # United States
 
@@ -36,12 +35,16 @@ Demographic data can be downloaded from:
 * [Census Reporter](https://censusreporter.org/) (latest American Community Survey only)
 * [NHGIS](https://www.nhgis.org/) (historical data back to 1790)
 
+## [SimplyAnalytics](http://resolver.library.cornell.edu/misc/6168667)
+Formerly known as SimplyMap, this is a website that the Cornell Library subscribes to.  It offers thematic maps and reports of demographic, business, and marketing data for the United States.  Some of the marketing data is incredibly specific, such as "# Households buying car wax and polish in last 12 months" or "% Households engaged in marathon/triathon training and events".  To export shapefiles of the data, click the ☰ menu.
+
 ## [The National Map](https://apps.nationalmap.gov/downloader/#/)
 Download a variety of data layers for any arbitrary region.  Includes NED (National Elevation Dataset),  NHD (National Hydrography Dataset), orthoimagery, and more.
 
 ## [MRLC](https://www.mrlc.gov/data)
 The Multi-Resolution Land Characteristics Consortium publishes the National Land Cover Database (NLCD), a 30-meter-resolution raster dataset of the United States that includes landcover, tree canopy, urban imperviousness, and more.
 
+----
 
 # International
 
@@ -61,14 +64,9 @@ A free, collaborative, editable map of the world.  The current map can be viewed
 
 **QuickOSM** is a QGIS plugin that allows you to search an area for specific OSM tags and import the data directly into QGIS.  It works well for city-sized areas, but will time out if the search result data is too large (in which case it is better to use the Geofabrik site above).  For help finding the right OSM tags, see ["Map Features" on the OSM wiki](https://wiki.openstreetmap.org/wiki/Map_features).
 
+----
 
-# Library resources
-
-## [SimplyAnalytics](http://resolver.library.cornell.edu/misc/6168667)
-Formerly known as SimplyMap, this site offers thematic maps and reports of demographic, business, and marketing data for the United States.  Some of the marketing data is incredibly specific, such as "# Households buying car wax and polish in last 12 months" or "% Households engaged in marathon/triathon training and events".  To export shapefiles of the data, click the ☰ menu.
-
-
-# Finding other sources
+# Finding other data sources
 
 ## [Geolode.org](http://geolode.org/)
 Geolode is a worldwide catalog of over 800 open geospatial data websites, including all the major US state GIS websites.  This project started at Cornell, and is maintained by GIS librarians at several universities.
