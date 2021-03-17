@@ -28,7 +28,7 @@ Aerial photos dating back to 1936.  Only Cayuga, Cortland, Onondaga, Seneca, Tom
 
 # United States
 
-## [Census TIGER/Line Shapefiles](https://www.census.gov/programs-surveys/geography/geographies/mapping-files.html)
+## [Census TIGER/Line Shapefiles](https://www.census.gov/geographies/mapping-files/time-series/geo/tiger-line-file.html)
 Spatial data for boundaries of legal and statistical areas such as states, counties, census tracts, block-groups, blocks, zipcode tabulation areas, legislative boundaries, school districts, etc.  (Also includes roads and water features, although probably not as detailed or current as other sources.)
 
 Demographic data can be downloaded from:
@@ -49,7 +49,7 @@ The Multi-Resolution Land Characteristics Consortium publishes the National Land
 Public domain map data at 1:10m, 1:50m, and 1:110 million scales for global or regional maps.
 
 ## [geoBoundaries](https://www.geoboundaries.org/)
-Global database of political administrative boundaries (state and county equivalents for each country), produced by the College of William & Mary and shared under an open license.
+Global database of political administrative boundaries (state and county equivalents for each country, and sometimes even smaller units), produced by the College of William & Mary and shared under an open license.
 
 ## [GADM](https://gadm.org/download_country_v3.html)
 Global administrative boundaries, often down to the 3rd or 4th level for each country.
