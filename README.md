@@ -1,6 +1,7 @@
 Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Mann Library.
 
-
+<div style='border-radius:0.5em ; padding:1em ; margin:1em ; background:#eee'>
+ 
 # New York State
 
 ## [NYS GIS Clearinghouse](http://gis.ny.gov/)
@@ -23,7 +24,8 @@ Then click "Connect" and select a layer to add.  For more details, including acc
 ## [Historical Aerial Photographs of New York](https://digital.library.cornell.edu/collections/aerialny)
 Aerial photos dating back to 1936.  Only Cayuga, Cortland, Onondaga, Seneca, Tompkins, and Wayne counties are currently available online, but Cornell IRIS is in the middle of a project to scan the original photographs for other counties across NY.
 
-----
+</div>
+<div style='border-radius:0.5em ; padding:1em ; margin:1em ; background:#eee'>
 
 # United States
 
@@ -44,7 +46,8 @@ Download a variety of data layers for any arbitrary region.  Includes NED (Natio
 ## [MRLC](https://www.mrlc.gov/data)
 The Multi-Resolution Land Characteristics Consortium publishes the National Land Cover Database (NLCD), a 30-meter-resolution raster dataset of the United States that includes landcover, tree canopy, urban imperviousness, and more.
 
-----
+</div>
+<div style='border-radius:0.5em ; padding:1em ; margin:1em ; background:#eee'>
 
 # International
 
@@ -64,7 +67,8 @@ A free, collaborative, editable map of the world.  The current map can be viewed
 
 **QuickOSM** is a QGIS plugin that allows you to search an area for specific OSM tags and import the data directly into QGIS.  It works well for city-sized areas, but will time out if the search result data is too large (in which case it is better to use the Geofabrik site above).  For help finding the right OSM tags, see ["Map Features" on the OSM wiki](https://wiki.openstreetmap.org/wiki/Map_features).
 
-----
+</div>
+<div style='border-radius:0.5em ; padding:1em ; margin:1em ; background:#eee'>
 
 # Finding other data sources
 
@@ -73,3 +77,5 @@ Geolode is a worldwide catalog of over 800 open geospatial data websites, includ
 
 ## Google, etc.
 When searching the web, try using a country/province/city name and terms like "GIS data", "shp", "shapefile", etc.  Try variants using the local language, like `Colombia SIG datos`.  Local governments and NGOs may share geospatial data, although availability varies from place to place.  Even if data is not readily downloadable from an organization's website, it might be possible to find a contact name and e-mail address.  When making a request by e-mail, be explicit about what data you are looking for, and be sure to mention that you will be using the data for an academic course project.
+
+</div>
