@@ -47,7 +47,7 @@ Formerly known as SimplyMap, this is a website that the Cornell Library subscrib
 
 ## Social Explorer
 <http://resolver.library.cornell.edu/misc/6268440>  
-Another website that Cornell Library subscribes to, Social Explorer provides convenient access to US Census data back to 1790, as well as other datasets related to elections, businesses, crime, health, religion, and more.  Users can create maps on the websit, but can also export data tables for use in GIS.  For details, see <https://guides.library.cornell.edu/c.php?g=374982&p=6972945>
+Another website that Cornell Library subscribes to, Social Explorer provides convenient access to US Census data back to 1790, as well as other datasets related to elections, businesses, crime, health, religion, and more.  Users can create maps on the website, but can also export data tables for use in GIS.  For details, see <https://guides.library.cornell.edu/c.php?g=374982&p=6972945>
 
 ## The National Map
 <https://apps.nationalmap.gov/downloader/#/>  
