@@ -94,4 +94,3 @@ Geolode is a worldwide catalog of over 800 open geospatial data websites, includ
 
 ## Google, etc.
 When searching the web, try using a country/province/city name and terms like "GIS data", "shp", "shapefile", etc.  Try variants using the local language, like `Colombia SIG datos`.  Local governments and NGOs may share geospatial data, although availability varies from place to place.  Even if data is not readily downloadable from an organization's website, it might be possible to find a contact name and e-mail address.  When making a request by e-mail, be explicit about what data you are looking for, and be sure to mention that you will be using the data for an academic course project.
-
