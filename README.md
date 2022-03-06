@@ -51,7 +51,7 @@ Another website that Cornell Library subscribes to, Social Explorer provides con
 
 ## The National Map
 <https://apps.nationalmap.gov/downloader/#/>  
-Download a variety of data layers for any arbitrary region.  Includes NED (National Elevation Dataset),  NHD (National Hydrography Dataset), orthoimagery, and more.
+Download a variety of data layers for any arbitrary region.  Includes NED (National Elevation Dataset),  NHD (National Hydrography Dataset), orthoimagery, and more.  Version 5.0.0, released in December 2021, offers point-of-view varients of national boundaries for several dozen countries.
 
 ## National Land Cover Database
 <https://www.mrlc.gov/data>  
