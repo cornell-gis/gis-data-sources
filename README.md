@@ -67,7 +67,7 @@ Catalog of high-resolution elevation surveys across the US, with links to data d
 
 ## Natural Earth
 <https://www.naturalearthdata.com/>  
-Public domain map data at 1:10m, 1:50m, and 1:110 million scales for global or regional maps.  Version 5.0.0, released in December 2021, offers point-of-view varients of national boundaries for several dozen countries.
+Public domain map data at 1:10m, 1:50m, and 1:110 million scales for global or regional maps.  Version 5.0.0, released in December 2021, offers point-of-view variants of national boundaries for several dozen countries.
 
 ## geoBoundaries
 <https://www.geoboundaries.org/>  
