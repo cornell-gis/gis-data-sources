@@ -76,7 +76,7 @@ Public domain map data at 1:10m, 1:50m, and 1:110 million scales for global or r
 Global database of political administrative boundaries (state and county equivalents for each country, and sometimes even smaller units), produced by the College of William & Mary and shared under an open license.
 
 ## GADM
-<https://gadm.org/download_country_v3.html>  
+<https://gadm.org/download_country.html>  
 Global administrative boundaries, often down to the 3rd or 4th level for each country.
 
 ## OpenStreetMap (OSM)
@@ -91,8 +91,9 @@ A free, collaborative, editable map of the world.  The current map can be viewed
 
 # Finding other data sources
 
-## [Geolode.org](http://geolode.org/)
-Geolode is a worldwide catalog of over 800 open geospatial data websites, including all the major US state GIS websites.  This project started at Cornell, and is maintained by GIS librarians at several universities.
+## Geolode
+<https://geolode.org/>  
+Geolode is a worldwide catalog of over 900 open geospatial data websites, including all the major US state GIS websites.  This project started at Cornell, and is maintained by GIS librarians at several universities.
 
 ## Google, etc.
 When searching the web, try using a country/province/city name and terms like "GIS data", "shp", "shapefile", etc.  Try variants using the local language, like `Colombia SIG datos`.  Local governments and NGOs may share geospatial data, although availability varies from place to place.  Even if data is not readily downloadable from an organization's website, it might be possible to find a contact name and e-mail address.  When making a request by e-mail, be explicit about what data you are looking for, and be sure to mention that you will be using the data for an academic course project.
