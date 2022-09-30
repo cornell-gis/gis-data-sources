@@ -21,10 +21,7 @@ The Cornell University Geospatial Information Repository.  Includes New York dat
 <https://orthos.dhses.ny.gov/>  
 Provides access to elevation data from a variety of statewide and local sources, LiDAR pointcloud data from various surveys, and aerial imagery for specific years (1990s to the present) from the NYS statewide orthoimagery program.  To get to the previews and downloads, see the "tools" icon in the top right of the map.
 
-For the aerial imagery, it is also possible to link to a web service rather than downloading specific image tiles.  In QGIS, open the Data Source Manager > WMS/WMTS > New, then enter a name and the following URL:  
-https://orthos.its.ny.gov/ArcGIS/services/wms/Latest/MapServer/WMSServer
-
-Then click "Connect" and select a layer to add.  For more details, including access to older imagery, see the NYS Orthoimagery Web Services webpage at <http://gis.ny.gov/gateway/mg/webserv/webserv.html>
+For the aerial imagery, it is also possible to link to a web service rather than downloading specific image tiles.  For more details, including access to older imagery, see the NYS Orthoimagery Web Services webpage at <http://gis.ny.gov/gateway/mg/webserv/webserv.html>
 
 ## Historical Aerial Photographs of New York
 <https://digital.library.cornell.edu/collections/aerialny>  
@@ -84,8 +81,6 @@ Global administrative boundaries, often down to the 3rd or 4th level for each co
 A free, collaborative, editable map of the world.  The current map can be viewed at the link above -- check your area of interest to see what level of detail is available.  To download as data, click “Export” for various options, or go directly to these sites for easy-to-use shapefiles:
   * <http://download.geofabrik.de/>	(daily data extracts by country)
   * <https://export.hotosm.org/>	(custom extracts by user-selected area)
-
-**QuickOSM** is a QGIS plugin that allows you to search an area for specific OSM tags and import the data directly into QGIS.  It works well for city-sized areas, but will time out if the search result data is too large (in which case it is better to use the Geofabrik site above).  For help finding the right OSM tags, see "Map Features" on the OSM wiki: <https://wiki.openstreetmap.org/wiki/Map_features>
 
 ----
 
