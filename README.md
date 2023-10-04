@@ -21,7 +21,7 @@ The Cornell University Geospatial Information Repository.  Includes New York dat
 <https://orthos.dhses.ny.gov/>  
 Provides access to elevation data from a variety of statewide and local sources, LiDAR pointcloud data from various surveys, and aerial imagery for specific years (1990s to the present) from the NYS statewide orthoimagery program.  To get to the previews and downloads, see the "tools" icon in the top right of the map.
 
-For the aerial imagery, it is also possible to link to a web service rather than downloading specific image tiles.  For more details, including access to older imagery, see the NYS Orthoimagery Web Services webpage at <http://gis.ny.gov/gateway/mg/webserv/webserv.html>
+For the aerial imagery, it is also possible to link to a web service rather than downloading specific image tiles.  For details, see <https://gis.ny.gov/sharegis#connecting-to-web-services-with-popular-software-and-code>
 
 ## Historical Aerial Photographs of New York
 <https://digital.library.cornell.edu/collections/aerialny>  
