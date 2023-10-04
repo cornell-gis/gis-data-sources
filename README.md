@@ -6,9 +6,8 @@ Compiled by Keith Jenkins <kgj2@cornell.edu>, GIS Librarian at Mann Library.
 # New York State
 
 ## NYS GIS Clearinghouse
-<http://gis.ny.gov/>  
-Includes geospatial data created by state, county, and local governments across New York. \
-(Note: As of March 26, 2023 this website is in the process of being migrated, and should hopefully be accessible again by the end of the week.)
+<[http://gis.ny.gov/](https://gis.ny.gov/)>  
+Includes geospatial data created by state, county, and local governments across New York.
 
 ## Data.ny.gov
 <https://data.ny.gov/>  
